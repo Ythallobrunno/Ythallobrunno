@@ -8,7 +8,7 @@ Me chamo Ythallo Brunno, sou natural do Piauí e um entusiasta de tecnologia em 
 
 * **Back-end:** Desenvolvimento e manutenção de APIs robustas utilizando **Python (Django & DRF)**, com foco em performance e segurança.
 * **Front-end:** Criação de interfaces responsivas e dinâmicas com **React, Next.js** e estilização avançada com **Material UI**.
-* **Infra & DevOps:** Gerenciamento de ambientes com **Docker**, deploy e monitoramento em **AWS (EC2 e S3)** e **Oracle Cloud**.
+* **Infra & DevOps:** Suporte ao fluxo de CI/CD, operando integrações entre aplicações e serviços cloud, executando deploys, troubleshooting e monitoramento de containers **Docker em AWS (EC2, S3)** e **Oracle Cloud**.
 * **Dados & Integrações:** Experiência com bancos **PostgreSQL**, além de integração de gateways de pagamento (Braspag), APIs de logística e sistemas de e-commerce (OCC/OSF).
 * **Data Intelligence:** Implementação completa de rastreamento de dados com **GTM, Google Analytics, Google Ads e Meta Ads** e criação de dashboards estratégicos em **Power BI** e **Looker Studio**.
 
